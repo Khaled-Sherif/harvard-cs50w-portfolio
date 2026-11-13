@@ -1,5 +1,4 @@
-# harvard-cs50w-portfolio
-# Harvard CS50 Web Programming Projects
+# Harvard CS50 Web Programming Portfolio
 
 Portfolio of projects completed as part of **CS50’s Web Programming with Python and JavaScript** (Harvard University).
 
